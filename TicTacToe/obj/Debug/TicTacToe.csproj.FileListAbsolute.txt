@@ -1,0 +1,11 @@
+C:\Users\guilherme.fadario\source\repos\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\guilherme.fadario\source\repos\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\guilherme.fadario\source\repos\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\guilherme.fadario\source\repos\TicTacToe\obj\Debug\TicTacToe.Main.resources
